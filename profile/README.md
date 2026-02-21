@@ -84,6 +84,15 @@ Check our repositories at [github.com/LepistaBioinformatics](https://github.com/
 
 ---
 
+## Our Story
+
+Curious about why a mushroom genus became the symbol of a bioinformatics lab? Read the story behind the name:
+
+- [The Story Behind the Name](history.en-us.md) — English
+- [A História Por Trás do Nome](history.pt-br.md) — Português (Brasil)
+
+---
+
 <div align="center">
 
 *Science grows when knowledge is shared freely.*
