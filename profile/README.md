@@ -1,6 +1,8 @@
 <div align="center">
 
-# Lepista Bioinformatics Lab
+<img src="logo-full.png" alt="Lepista Bioinformatics Lab" width="320" style="border-radius: 24px" />
+
+# <span style="color: #7F58AF">Lepista Bioinformatics Lab</span>
 
 **Open source bioinformatics and software infrastructure for science and beyond**
 
@@ -10,15 +12,15 @@
 
 ## About
 
-Lepista Bioinformatics Lab is a virtual open-source laboratory publishing free tools for **bioinformatics** and **general software development**. Our projects range from sequence analysis pipelines and phylogenetic placers to modern API gateways and knowledge graph builders — all designed with quality architecture in mind.
+Lepista Bioinformatics Lab is a virtual open-source laboratory publishing free tools for <span style="color: #7F58AF">**bioinformatics**</span> and <span style="color: #7F58AF">**general software development**</span>. Our projects range from sequence analysis pipelines and phylogenetic placers to modern API gateways and knowledge graph builders — all designed with quality architecture in mind.
 
-We believe that good software and good science are inseparable. That's why every project here follows solid engineering principles: clean architecture, performance-first design, and clear documentation.
+We believe that <span style="color: #7F58AF">**good software and good science are inseparable**</span>. That's why every project here follows solid engineering principles: clean architecture, performance-first design, and clear documentation.
 
 ---
 
 ## Featured Projects
 
-### Infrastructure
+### <span style="color: #7F58AF">Infrastructure</span>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -26,7 +28,7 @@ We believe that good software and good science are inseparable. That's why every
 | [**mycelium-webapp**](https://github.com/LepistaBioinformatics/mycelium-webapp) | Web dashboard for Mycelium | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**mycelium-http-tools-py**](https://github.com/LepistaBioinformatics/mycelium-http-tools-py) | Python client for Mycelium HTTP tools | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-### Bioinformatics
+### <span style="color: #7F58AF">Bioinformatics</span>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -36,13 +38,13 @@ We believe that good software and good science are inseparable. That's why every
 | [**tax2graph**](https://github.com/LepistaBioinformatics/tax2graph) | Parse Catalog of Life taxonomy into a Neo4j graph database | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**gene-connector-cli**](https://github.com/LepistaBioinformatics/gene-connector-cli) | CLI for gene analysis workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-### Knowledge & AI
+### <span style="color: #7F58AF">Knowledge & AI</span>
 
 | Project | Description | Stack |
 |---|---|---|
 | [**noosphere-kg**](https://github.com/LepistaBioinformatics/noosphere-kg) | Build knowledge graphs from unstructured text using LLMs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-### Utilities
+### <span style="color: #7F58AF">Utilities</span>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -69,7 +71,7 @@ We believe that good software and good science are inseparable. That's why every
 
 ## Join Us
 
-We're looking for contributors who are passionate about bioinformatics, open science, or robust software engineering.
+We're looking for contributors who are passionate about <span style="color: #7F58AF">**bioinformatics**</span>, <span style="color: #7F58AF">**open science**</span>, or <span style="color: #7F58AF">**robust software engineering**</span>.
 
 Whether you're a biologist who codes, a software engineer curious about life sciences, or just someone who wants to build cool things — **you're welcome here**.
 
@@ -95,6 +97,6 @@ Curious about why a mushroom genus became the symbol of a bioinformatics lab? Re
 
 <div align="center">
 
-*Science grows when knowledge is shared freely.*
+*<span style="color: #7F58AF">Science grows when knowledge is shared freely.</span>*
 
 </div>
