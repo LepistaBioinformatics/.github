@@ -33,7 +33,7 @@ We believe that <span style="color: #7F58AF">**good software and good science ar
 | Project | Description | Stack |
 |---|---|---|
 | [**blutils**](https://github.com/LepistaBioinformatics/blutils) | High-performance BLAST wrapper with consensus identity | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
-| [**blutils-ui**](https://github.com/LepistaBioinformatics/blutils-ui) | Visual explorer for Blutils results | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**blutils-ui**](https://github.com/LepistaBioinformatics/blutils-ui) | Visual explorer for [Blutils results](https://lepistabioinformatics.github.io/blutils-ui/) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**classeq2**](https://github.com/LepistaBioinformatics/classeq2) | Alignment-free phylogenetic placer based on k-mer composition | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
 | [**tax2graph**](https://github.com/LepistaBioinformatics/tax2graph) | Parse Catalog of Life taxonomy into a Neo4j graph database | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**gene-connector-cli**](https://github.com/LepistaBioinformatics/gene-connector-cli) | CLI for gene analysis workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
