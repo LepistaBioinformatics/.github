@@ -43,6 +43,7 @@ We believe that <span style="color: #7F58AF">**good software and good science ar
 | Project | Description | Stack |
 |---|---|---|
 | [**noosphere-kg**](https://github.com/LepistaBioinformatics/noosphere-kg) | Build knowledge graphs from unstructured text using LLMs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**agents-room**](https://github.com/LepistaBioinformatics/agents-room) | Collaborative environment for building and orchestrating AI agents | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ### <span style="color: #7F58AF">Utilities</span>
 
