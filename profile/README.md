@@ -26,7 +26,9 @@ We believe that <span style="color: #7F58AF">**good software and good science ar
 |---|---|---|
 | [**mycelium**](https://github.com/LepistaBioinformatics/mycelium) | Secure, flexible, multi-tenant API Gateway | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
 | [**mycelium-webapp**](https://github.com/LepistaBioinformatics/mycelium-webapp) | Web dashboard for Mycelium | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**mycelium-http-tools-py**](https://github.com/LepistaBioinformatics/mycelium-http-tools-py) | Python client for Mycelium HTTP tools | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**mycelium-sdk-py**](https://github.com/LepistaBioinformatics/mycelium-sdk-py) | Python SDK for Mycelium | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**mycelium-sdk-js**](https://github.com/LepistaBioinformatics/mycelium-sdk-js) | Node.js/TypeScript SDK for Mycelium | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**mycelium-sdk-go**](https://github.com/LepistaBioinformatics/mycelium-sdk-go) | Go SDK for Mycelium | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 ### <span style="color: #7F58AF">Bioinformatics</span>
 
@@ -61,6 +63,7 @@ We believe that <span style="color: #7F58AF">**good software and good science ar
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
