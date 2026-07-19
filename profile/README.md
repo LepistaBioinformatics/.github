@@ -24,9 +24,9 @@ Explore our full portfolio — infrastructure, bioinformatics, knowledge & AI, a
 
 <div align="center">
 
-### 🌐 [**lepista.io**](https://lepista.io)
+### 🌐 [**lepista.com.br**](https://lepista.com.br)
 
-**[Explore all projects →](https://lepista.io)**
+**[Explore all projects →](https://lepista.com.br)**
 
 </div>
 
