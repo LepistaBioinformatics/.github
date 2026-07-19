@@ -18,41 +18,19 @@ We believe that <span style="color: #7F58AF">**good software and good science ar
 
 ---
 
-## Featured Projects
+## Projects
 
-### <span style="color: #7F58AF">Infrastructure</span>
+Explore our full portfolio — infrastructure, bioinformatics, knowledge & AI, and cross-cutting projects — on our website:
 
-| Project | Description | Stack |
-|---|---|---|
-| [**mycelium**](https://github.com/LepistaBioinformatics/mycelium) | Secure, flexible, multi-tenant API Gateway | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
-| [**mycelium-webapp**](https://github.com/LepistaBioinformatics/mycelium-webapp) | Web dashboard for Mycelium | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**mycelium-sdk-py**](https://github.com/LepistaBioinformatics/mycelium-sdk-py) | Python SDK for Mycelium | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**mycelium-sdk-js**](https://github.com/LepistaBioinformatics/mycelium-sdk-js) | Node.js/TypeScript SDK for Mycelium | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**mycelium-sdk-go**](https://github.com/LepistaBioinformatics/mycelium-sdk-go) | Go SDK for Mycelium | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+<div align="center">
 
-### <span style="color: #7F58AF">Bioinformatics</span>
+### 🌐 [**lepista.io**](https://lepista.io)
 
-| Project | Description | Stack |
-|---|---|---|
-| [**blutils**](https://github.com/LepistaBioinformatics/blutils) | High-performance BLAST wrapper with consensus identity | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
-| [**blutils-ui**](https://github.com/LepistaBioinformatics/blutils-ui) | [Visual explorer](https://lepistabioinformatics.github.io/blutils-ui/) for Blutils results | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**classeq2**](https://github.com/LepistaBioinformatics/classeq2) | Alignment-free phylogenetic placer based on k-mer composition | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
-| [**tax2graph**](https://github.com/LepistaBioinformatics/tax2graph) | Parse Catalog of Life taxonomy into a Neo4j graph database | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**gene-connector-cli**](https://github.com/LepistaBioinformatics/gene-connector-cli) | CLI for gene analysis workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+**[Explore all projects →](https://lepista.io)**
 
-### <span style="color: #7F58AF">Knowledge & AI</span>
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| [**noosphere-kg**](https://github.com/LepistaBioinformatics/noosphere-kg) | Build knowledge graphs from unstructured text using LLMs | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**agents-room**](https://github.com/LepistaBioinformatics/agents-room) | Collaborative environment for building and orchestrating AI agents | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-### <span style="color: #7F58AF">Utilities</span>
-
-| Project | Description | Stack |
-|---|---|---|
-| [**clean-base**](https://github.com/LepistaBioinformatics/clean-base) | Clean architecture base utilities for Rust projects | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) |
-| [**clean-base-py**](https://github.com/LepistaBioinformatics/clean-base-py) | Clean architecture base utilities for Python projects | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+You can also browse every repository directly here on [github.com/LepistaBioinformatics](https://github.com/LepistaBioinformatics).
 
 ---
 
